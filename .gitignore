@@ -5,3 +5,6 @@
 /revdep
 /r-packages
 *_cache
+/src/*.o
+/src/pkgcache.so
+/src/pkgcache.dll

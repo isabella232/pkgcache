@@ -12,3 +12,6 @@
 ^.*_cache$
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^src/.*\.o$
+^src/pkgcache\.so$
+^src/pkgcache\.dll$
